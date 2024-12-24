@@ -1,0 +1,2 @@
+This is written using write().
+Each call to write() adds content.

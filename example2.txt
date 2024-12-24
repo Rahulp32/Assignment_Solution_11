@@ -1,0 +1,2 @@
+This is written using writelines().
+Each string in the list is written as a line.
